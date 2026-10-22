@@ -1,0 +1,1 @@
+The code examples in this repository are proposed for Apache-2.0 licensing, subject to confirming rights. Obtain the full license text from https://www.apache.org/licenses/LICENSE-2.0 before assigning an SPDX license or promoting this code as Apache-2.0 licensed. This notice does not license any proprietary production code or third-party material.
